@@ -1,4 +1,4 @@
-# result.txt
+# homework9
 Задание 1
 
 ![](https://github.com/Sayano99/result.txt/blob/master/Снимок%20экрана%20(46).png)
