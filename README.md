@@ -29,7 +29,7 @@
  
  ![](https://github.com/Sayano99/result.txt/blob/master/Снимок%20экрана%20(52).png)
  
- Регулярное выражение: ( [ . , ; : ! ? ] ( ? ! [ . > ] ) ) заменила все на (\1)
+ Регулярное выражение: ( [ . , ; : ! ? ] ( ? ! [ . > ] ) ) заменила все вхождения на (\1)
  
  
  ![](https://github.com/Sayano99/result.txt/blob/master/result.txt)
